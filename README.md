@@ -14,3 +14,6 @@ Step 3: pip install googletrans==3.1.0a0
 Step 4: pip install gTTs
 
 Step 5: pip install gTTS-token
+
+Step 6: pip install pyaudio
+
